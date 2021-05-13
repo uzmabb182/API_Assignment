@@ -51,17 +51,17 @@ Here the heatmaps describes the relationship between each city's location(latitu
 
 The screen shots of different heatmap are taken and image links are provided below:
 
-![Hybrid Heatmap](Resources\gmap_hybrid.png)
+![Hybrid Heatmap](Resources/gmap_hybrid.png)
 
-![Marker_Layer_Heatmap]Resources\marker_layer_heatmap.PNG
+![Marker_Layer_Heatmap]Resources/marker_layer_heatmap.PNG
 
-![Hote_Name_Marker]Resources\hotel_name_marker.PNG
+![Hote_Name_Marker]Resources/hotel_name_marker.PNG
 
-![City_Name_Marker]Resources\city_name_marker.PNG
+![City_Name_Marker]Resources/city_name_marker.PNG
 
-![Country_Name_Marker]Resources\country_name_marker.PNG
+![Country_Name_Marker]Resources/country_name_marker.PNG
 
-![Max_Humidity_Heatmap]Resources\max_humidity_heatmap.PNG
+![Max_Humidity_Heatmap]Resources/max_humidity_heatmap.PNG
 
 
 
